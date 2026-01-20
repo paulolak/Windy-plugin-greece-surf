@@ -1,0 +1,11 @@
+{
+  "name": "windy-plugin-greece-surf",
+  "version": "1.0.0",
+  "description": "Surf spots in Greece",
+  "icon": "🏄‍♂️",
+  "title": "Greece Surf Map",
+  "author": "Paul O",
+  "repository": "https://github.com/your-username/Windy-plugin-greece-surf",
+  "desktopUI": "rhpane",
+  "mobileUI": "fullscreen"
+}
