@@ -1,9 +1,0 @@
-{
-  "name": "windy-plugin-greece-surf",
-  "version": "1.0.0",
-  "title": "Greece Surf Map",
-  "icon": "🏄‍♂️",
-  "repository": "https://github.com/paulolak/Windy-plugin-greece-surf",
-  "desktopUI": "rhpane",
-  "mobileUI": "fullscreen"
-}
